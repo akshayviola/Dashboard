@@ -1,0 +1,13 @@
+mat-card{
+    background-color: rgb(192, 212, 146);
+    height: 300px;
+    width: 500px;
+}
+
+.card-crt{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    margin-left: 95px;
+}

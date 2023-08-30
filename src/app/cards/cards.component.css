@@ -1,0 +1,27 @@
+mat-card{
+    background-color: rgb(11, 10, 54);
+    height: 150px;
+    width: 250px;
+    margin: 20px;
+}
+.mcard{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 100px;
+}
+mat-card-content{
+    color: white;
+}
+.micon{
+   
+    margin-left: 7.5rem;
+
+    
+}
+.mh2{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}

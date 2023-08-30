@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+body{
+
+    background: url(https://static.vecteezy.com/system/resources/previews/008/171/873/non_2x/abstract-boxes-background-modern-technology-with-square-mesh-geometric-on-white-background-with-lines-cube-cell-illustration-free-vector.jpg);
+
+}
